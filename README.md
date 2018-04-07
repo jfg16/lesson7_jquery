@@ -13,11 +13,10 @@ Jonathan Garcia
 Learned about JQuery by using it to ease the coding process, as it a part of JavaScript
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jfg16.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JQuery is a part of JavaScript, and uses the shortcut, $, to perform functions.
+2. Can perform CSS manipulation, DOM/HTML tranversal/manipulation, and animations. 
+3. "*" means it will select all nodes of the document.
 
