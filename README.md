@@ -4,13 +4,13 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+04/06/2018
 
 ### Student Name:  
-(First and Last Name)
+Jonathan Garcia
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Learned about JQuery by using it to ease the coding process, as it a part of JavaScript
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
